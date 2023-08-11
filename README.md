@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kenwiens
-- 👀 I started with home assistant in August 2022 (after 15 years eith HCA)
+- 👀 I started with home assistant in August 2022 (after 15 years with HCA)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on homeassistant
 - 📫 How to reach me ...
